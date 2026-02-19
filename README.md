@@ -21,7 +21,7 @@ Track packages from 10+ carriers directly through your OpenClaw AI agent.
 Paste this into your OpenClaw agent to get started:
 
 ```
-Install the package tracker skill - clone https://github.com/joaoleitegmr/openclaw-package-tracker to skills/, run setup.sh, and help me add a package to track.
+Install the package tracker skill — clone https://github.com/joaoleitegmr/openclaw-package-tracker to skills/package-tracker, run setup.sh, and help me add a package to track.
 ```
 
 ## Installation
@@ -30,7 +30,7 @@ Install the package tracker skill - clone https://github.com/joaoleitegmr/opencl
 
 ```bash
 cd /path/to/openclaw/skills
-git clone https://github.com/joaoleitegmr/openclaw-package-tracker.git
+git clone https://github.com/joaoleitegmr/openclaw-package-tracker.git package-tracker
 ```
 
 ### 2. Run Setup
