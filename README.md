@@ -2,7 +2,7 @@
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![OpenClaw Skill](https://img.shields.io/badge/OpenClaw-Skill-blue.svg)](https://openclaw.dev)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/joaoleitegmr/openclaw-package-tracker/pulls)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/joaoleitegmr/openclaw-package-tracker-skill/pulls)
 
 Track packages from 10+ carriers directly through your OpenClaw AI agent.
 
@@ -30,7 +30,7 @@ Install the package tracker skill — clone https://github.com/joaoleitegmr/open
 
 ```bash
 cd /path/to/openclaw/skills
-git clone https://github.com/joaoleitegmr/openclaw-package-tracker.git package-tracker
+git clone https://github.com/joaoleitegmr/openclaw-package-tracker-skill.git package-tracker
 ```
 
 ### 2. Run Setup
